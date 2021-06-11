@@ -1,0 +1,12 @@
+{
+  "name": "simple-wx-request",
+  "version": "1.0.0",
+  "description": "微信小程序的request请求封装，全局请求拦截，接口统一错误处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["weixin", "mini-program", "request"],
+  "author": "chenying2526",
+  "license": "ISC"
+}
