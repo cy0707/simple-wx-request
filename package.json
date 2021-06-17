@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/cy0707/simple-wx-request/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cy0707/simple-wx-request.git"
+  },
+  "homepage": "https://github.com/cy0707/simple-wx-request#readme",
   "keywords": ["weixin", "mini-program", "request"],
-  "author": "chenying2526",
+  "author": "chenying2526 <chenying2526@gmail.com> (https://github.com/cy0707)",
   "license": "ISC"
 }
